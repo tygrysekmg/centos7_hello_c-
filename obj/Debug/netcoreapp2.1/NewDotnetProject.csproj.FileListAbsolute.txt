@@ -1,0 +1,11 @@
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/bin/Debug/netcoreapp2.1/NewDotnetProject.deps.json
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/bin/Debug/netcoreapp2.1/NewDotnetProject.runtimeconfig.json
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/bin/Debug/netcoreapp2.1/NewDotnetProject.runtimeconfig.dev.json
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/bin/Debug/netcoreapp2.1/NewDotnetProject.dll
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/bin/Debug/netcoreapp2.1/NewDotnetProject.pdb
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/obj/Debug/netcoreapp2.1/NewDotnetProject.csprojAssemblyReference.cache
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/obj/Debug/netcoreapp2.1/NewDotnetProject.csproj.CoreCompileInputs.cache
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/obj/Debug/netcoreapp2.1/NewDotnetProject.AssemblyInfoInputs.cache
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/obj/Debug/netcoreapp2.1/NewDotnetProject.AssemblyInfo.cs
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/obj/Debug/netcoreapp2.1/NewDotnetProject.dll
+/home/gmilczuk/ECLIPSE2/c_23/workspace/NewDotnetProject/obj/Debug/netcoreapp2.1/NewDotnetProject.pdb
